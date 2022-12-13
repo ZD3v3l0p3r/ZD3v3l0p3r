@@ -1,5 +1,11 @@
-## Developing in GitHub, Roblox, Discord, and more platforms with
-<a href="https://github.com/UsingGithubForCoding">@UsingGithubForCoding</a> <a href="https://github.com/jwklong">@jwklong</a>
+# I am Sean and I do random stuff in GitHub and Replit
 
-## Find me developing on
-<a href="https://github.com/zerberdev">@zerberdev</a> <a href="https://github.com/pso-bobthebot">@pso-bobthebot</a>
+## Find me at
+#### Discord - TargetLocked#2474
+#### GitHub - @zerberdev, @pso-bobthebot
+#### Replit - @zerberdev
+
+## Repos & repls that I care about and contribute
+#### [BobTheBot (replit)](https://repl.it/@jwklong/BobTheBot)
+#### [Website (main not github or replit)](https://eCodingBox.github.io)
+#### [Zerber DevDocs](https://zerberdev.github.io/docs)
