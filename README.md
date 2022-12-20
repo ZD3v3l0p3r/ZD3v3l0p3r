@@ -5,9 +5,9 @@
 
 ## here are meh github statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZD3v3l0p3r&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanzerber&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZD3v3l0p3r&langs_count=10&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanzerber&langs_count=10&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ye go check out my projects that i care about
 #### [BobTheBot (GitHub)](https://github.com/pso-bobthebot/discord)
