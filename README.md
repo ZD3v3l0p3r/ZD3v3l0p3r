@@ -1,15 +1,15 @@
-# i am sean and i do random stuff on github and replit
+# Hi, I'm Sean and I am an owner of Zerber!
 
-#### [my github](https://github.com/ecodingbox)
-#### [my replit](https://repl.it/@zerberdev)
+## You can contact me at
+### Discord - Sussy#2474
 
-## here are meh github statistics
+## Zerber
+### [Website](https://zerberdev.github.io)
+### [GitHub](https://github.com/zerberdev)
+### [Replit](https://repl.it/@zerberdev(
+
+## My statistics!
 
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=seanzerber&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Developer Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanzerber&langs_count=10&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## ye go check out my projects that i care about
-#### [BobTheBot (GitHub)](https://github.com/pso-bobthebot/discord)
-#### [BobTheBot (Replit)](https://repl.it/@jwklong/BobTheBot)
-#### [Website (main)](https://ecodingbox.github.io)
