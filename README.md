@@ -6,7 +6,7 @@
 ## Zerber
 ### [Website](https://zerberdev.github.io)
 ### [GitHub](https://github.com/zerberdev)
-### [Replit](https://repl.it/@zerberdev(
+### [Replit](https://repl.it/@zerberdev)
 
 ## My statistics!
 
